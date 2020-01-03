@@ -3,6 +3,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: leonids
 include: 
   - marketing_management.md
