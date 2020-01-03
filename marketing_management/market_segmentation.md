@@ -161,19 +161,19 @@ The marketing is the combination of product, price, place and promotion for any 
 No one element of the marketing is more important than another – each element ideally supports the other. Firms modify each element in the marketing to establish an overall brand image and unique selling point that makes their products stand out from the competition.
 The 7Ps of marketing are as follows:-
 
-1. [The Service Package (Product)](##product)
+1. [The Service Package (Product)](#product)
 
-2. [Pricing Policy](##Prices)
+2. [Pricing Policy](#prices)
  
-3. [Promotional Programmes](##Promotion)
+3. [Promotional Programmes](#promotion)
 
-4. [Place – Distribution](##Place)
+4. [Place – Distribution](#place)
 
-5. [Packaging](##Packaging)
+5. [Packaging](#packaging)
 
-6. [Positioning](##Positioning)
+6. [Positioning](#positioning)
 
-7. [People](##People)
+7. [People](#people)
 
 
 Take charge of your marketing efforts and beat the competition with this simple formula.
