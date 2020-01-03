@@ -7,3 +7,7 @@
 - [Market Segmentation](./market_segmentation.md)
 
 - [Marketing Environment](./marketing_environment.md)
+
+- [Consumer Behaviour](./consumer_behaviour.md)
+
+In today's world of marketing, everywhere you go you are being marketed to in one form or another. Marketing is with you each second of your walking life. From morning to night you are exposed to thousands of marketing messages everyday. Marketing is something that affects you even though you may not necessarily be conscious of it.

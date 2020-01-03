@@ -13,11 +13,6 @@
   - [Societal Marketing Concept](#societal-marketing-concept)
   - [Holistic Marketing Concept](#holistic-marketing-concept)
 
-
-In today's world of marketing, everywhere you go you are being marketed to in one form or another. Marketing is with you each second of your walking life. From morning to night you are exposed to thousands of marketing messages everyday. Marketing is something that affects you even though you may not necessarily be conscious of it.
- 
-After reading this post you'll understand - What exactly the marketing is, to whom it is beneficial for, and what are the nature and scope of marketing.
-
 # Definition of Marketing
 
 According to American Marketing Association (2004) - 
