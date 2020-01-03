@@ -5,3 +5,5 @@
 - [Introduction to Marketing](./introduction.md)
 
 - [Market Segmentation](./market_segmentation.md)
+
+- [Marketing Environment](./marketing_environment.md)
