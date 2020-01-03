@@ -30,6 +30,7 @@ Marketing Environment is the combination of external and internal factors and fo
 The marketing environment of a business consists of an internal and an external environment. The internal environment is company-specific and includes owners, workers, machines, materials etc. The external environment is further divided into two components: micro & macro. The micro or the task environment is also specific to the business but external. It consists of factors engaged in producing, distributing, and promoting the offering. The macro or the broad environment includes larger societal forces which affect society as a whole. The broad environment is made up of six components: demographic, economic, physical, technological, political-legal, and social-cultural environment.
 
 > “A company’s marketing environment consists of the actors and forces outside of marketing that affect marketing management ability to build and maintain successful relationships with target customers”.
+> 
 >  – Philip Kotler
 
 # Components of Marketing Environment

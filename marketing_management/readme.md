@@ -12,4 +12,8 @@
 
 - [Marketing Research](./marketing_research.md)
 
+- [Demand Forecasting](./demand_forecasting.md)
+
+- [Marketing Information System](./marketing_information_system.md)
+
 In today's world of marketing, everywhere you go you are being marketed to in one form or another. Marketing is with you each second of your walking life. From morning to night you are exposed to thousands of marketing messages everyday. Marketing is something that affects you even though you may not necessarily be conscious of it.
