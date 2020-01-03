@@ -1,8 +1,7 @@
-## MARKETING MANAGEMENT (33231) ##
+## Introduction ##
 
 ### Table of Contents ###
 
-- [Introduction](#introduction)
 - [Definition of Marketing](#definition-of-marketing)
 - [Nature of Marketing](#nature-of-marketing)
 - [Scope of Marketing](#scope-of-marketing)
@@ -14,7 +13,6 @@
   - [Societal Marketing Concept](#societal-marketing-concept)
   - [Holistic Marketing Concept](#holistic-marketing-concept)
 
-# Introduction
 
 In today's world of marketing, everywhere you go you are being marketed to in one form or another. Marketing is with you each second of your walking life. From morning to night you are exposed to thousands of marketing messages everyday. Marketing is something that affects you even though you may not necessarily be conscious of it.
  

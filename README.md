@@ -1,3 +1,3 @@
 ### MBA Notes ###
 
-- [Marketing Management](./marketing_management.md)
+- [Marketing Management](./marketing_management/marketing_management.md)
