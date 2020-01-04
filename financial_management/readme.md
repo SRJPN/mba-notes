@@ -7,3 +7,5 @@
 - [Finance Function](./finance_function.md)
 
 - [Investment Function](./investment_function.md)
+
+- [Risk and Returns](./risk_and_returns.md)
