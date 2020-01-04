@@ -9,3 +9,5 @@
 - [Investment Function](./investment_function.md)
 
 - [Risk and Returns](./risk_and_returns.md)
+
+- [Dividend Function](./dividend_function.md)
