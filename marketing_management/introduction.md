@@ -83,11 +83,11 @@ Marketing audit is done to control the marketing activities.
 # Marketing Management Philosophies
 
 There are five marketing concepts. A company should choose the right one according to their and their customers’ needs.
-   - Production Concept
-   - Product Concept
-   - Selling Concept
-   - Marketing Concept
-   - Social Marketing Concept
+   - [Production Concept](#production-concept)
+   - [Product Concept](#product-concept)
+   - [Selling Concept](#selling-concept)
+   - [Marketing Concept](#marketing-concept)
+   - [Social Marketing Concept](#societal-marketing-concept)
   
 ## Production Concept
 
