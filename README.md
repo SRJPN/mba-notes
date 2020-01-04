@@ -1,4 +1,4 @@
-### MBA Notes ###
+## MBA Notes ##
 
 - [Marketing Management](./marketing_management)
 

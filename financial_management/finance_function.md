@@ -82,7 +82,7 @@ Six basic executive finance functions are the following:
 
     An important responsibility of the finance manager is to ensure an adequate flow of cash as and when it is needed. Otherwise, the smooth operation of a company may not be possible. Since cash flow originates from sales and cash requirements are closely related to sales volume, adequate cash can be provided at the proper time only after forecasting cash needs.
 
-4. #### Taking decision on needs and sources of new external finance
+4. ### Taking decision on needs and sources of new external finance
 
     On the basis of sales forecasts, the financial managers will have to draw a plan to borrow funds from external sources. Such debt capital will add to the firm’s own cash resources and thus improve its financial position. External capital may be obtained by borrowing funds from commercial banks.
 
@@ -98,6 +98,6 @@ Six basic executive finance functions are the following:
 
 It may be noted that all the six functions are interrelated. This means that a change in decision with respect to any one of the functions will call for a change in decision relating to some or all other functions.
 
-### Incidental Function
+## Incidental Function
 
 The incidental finance functions include supervision of cash inflows and outflows and maintaining cash balances and record keeping.
