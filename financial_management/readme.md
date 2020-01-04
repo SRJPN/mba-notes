@@ -11,3 +11,5 @@
 - [Risk and Returns](./risk_and_returns.md)
 
 - [Dividend Function](./dividend_function.md)
+
+- [Capital Structure](./capital_structure.md)
