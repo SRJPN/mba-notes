@@ -254,3 +254,142 @@ This research objective of financial management requires it to:
 - Collect financial data about the progress of its competitive counterparts.
 
 - Make a study of money market and capital market operations, through a study of latest financial magazines and other literature on financial management.
+
+# Functions of Financial Management
+
+## Estimation of capital requirements
+
+A finance manager has to make estimation with regards to capital requirements of the company. This will depend upon expected costs and profits and future programmes and policies of a concern. Estimations have to be made in an adequate manner which increases earning capacity of enterprise.
+
+## Determination of capital composition
+
+Once the estimation have been made, the capital structure have to be decided. This involves short- term and long- term debt equity analysis. This will depend upon the proportion of equity capital a company is possessing and additional funds which have to be raised from outside parties.
+
+## Choice of sources of funds
+
+For additional funds to be procured, a company has many choices like-
+
+1. Issue of shares and debentures
+
+2. Loans to be taken from banks and financial institutions
+
+3. Public deposits to be drawn like in form of bonds.
+
+Choice of factor will depend on relative merits and demerits of each source and period of financing.
+
+## Investment of funds
+
+The finance manager has to decide to allocate funds into profitable ventures so that there is safety on investment and regular returns is possible.
+
+## Disposal of surplus
+
+The net profits decision have to be made by the finance manager. This can be done in two ways:
+
+1. **Dividend declaration:** It includes identifying the rate of dividends and other benefits like bonus.
+
+2. **Retained profits:** The volume has to be decided which will depend upon expansional, innovational, diversification plans of the company.
+
+## Management of cash
+
+Finance manager has to make decisions with regards to cash management. Cash is required for many purposes like payment of wages and salaries, payment of electricity and water bills, payment to creditors, meeting current liabilities, maintainance of enough stock, purchase of raw materials, etc.
+
+## Financial controls
+
+The finance manager has not only to plan, procure and utilize the funds but he also has to exercise control over finances. This can be done through many techniques like ratio analysis, financial forecasting, cost and profit control, etc.
+
+# Importance of Financial Management
+
+Prof. Soloman says that financial management is an integral part of overall management rather than merely a staff activity concerned with fund raising operations.
+
+At present, a financial manager occupies a central position in any business firm and financial management involves the application of all managerial functions such as planning, organising, directing, and controlling in the finance function sine qua non of industrialisation.
+
+![Profit Planning and Control](img/profit_planning_and_control.jpg)
+
+Managerial personnel connected with financial planning and policies will have specific responsibility for the following
+
+1. Fair return on capital invested in business.
+
+2. Plough back of profits for growth and expansion.
+
+3. Planning, directing and controlling the use of financial resources in order to ensure optimum efficiency of operations and establish cordial relations with financiers, suppliers, workers and members.
+
+4. Co-ordination of operations of different departments of the business.
+
+5. Control through appropriate measures to secure financial discipline in the use of available financial resources.
+
+# Role of Financial Management
+
+A business enterprise as a system has a dynamic flow of funds represented by the funds- flow cycle. Financial management is in charge of efficient planning and control of the cycle of flow of funds inflow and outflow of funds.
+
+There are three responsibilities of the financial manager in connection with direction of the flow of funds as per plan:
+
+1. The appropriate magnitude or volume of funds needed for efficient operations (capitalisation)
+
+2. The wise allocation of financial resources to particular assets fixed and current;
+
+3. The fund raising activities short-term and long-term liabilities and their composition.
+
+
+# Financial System
+
+Financial System is a set of institutional arrangements through which financial surpluses in the economy are mobilised from surplus units and transferred to deficit spenders.
+
+The institutional arrangements include all conditions and mechanisms governing the production, distribution, exchange and holding of financial assets or instruments of all kinds and the organisations as well as the manner of operations of financial markets and institutions of all descriptions.
+
+Thus, there are three main constituents of financial system
+
+1. Financial Assets
+
+2. Financial Markets
+
+3. Financial Institutions
+
+Financial assets are subdivided under two heads. **Primary securities** and **secondary securities**. The former are financial claims against real-sector units, for example, bills, bonds, equities etc. They are created by real-sector units as ultimate borrowers for raising funds to finance their deficit spending. The secondary securities are financial claims issued by financial institutions or intermediaries against themselves to raise funds from public. For examples, bank deposits, life insurance policies, UTI units, IDBI bonds etc.
+
+## Functions of Financial System
+
+The financial system helps production, capital accumulation, and growth by 
+
+1. [Encouraging Savings](#encourage-savings)
+
+2. [Mobilisation of Savings](#mobilisation-of-savings)
+
+3. [Allocation of Funds](#allocation-of-funds)
+   
+Each of these functions is important and the efficiency of a given financial system depends on how well it performs each of these functions.
+
+### Encourage Savings
+
+Financial system promotes savings by providing a wide array of financial assets as stores of value aided by the services of financial markets and intermediaries of various kinds. For wealth holders, all this offers ample choice of portfolios with attractive combinations of income, safety and yield.
+
+With financial progress and innovations in financial technology, the scope of portfolio choice has also improved. Therefore, it is widely held that the savings-income ratio is directly related to both financial assets and financial institutions. That is, financial progress generally insures larger savings out of the same level of real income.
+
+As stores of value, financial assets command certain advantages over tangible assets (physical capital, inventories of goods, etc.) they are convenient to hold, or easily storable, more liquid, that is more easily encashable, more easily divisible, and less risky.
+
+A very important property of financial assets is that they do not require regular management of the kind most tangible assets do. The financial assets have made possible the separation of ultimate ownership and management of tangible assets. The separation of savings from management has encouraged savings greatly.
+
+Savings are done by households, businesses, and government. Following the official classification adopted by the Central Statistical Organization (CSO), Government of India, we reclassify savers into— household sector, domestic private corporate sector, and the public sector.
+
+The household sector is defined to comprise individuals, non-Government, non-corporate entities in agriculture, trade and industry, and non-profit making organisations like trusts and charitable and religious institutions.
+
+The public sector comprises Central and state governments, departmental and non departmental undertakings, the RBI, etc. The domestic private corporate sector comprises non-government public and private limited companies (whether financial or non-financial) and corrective institutions.
+
+Of these three sectors, the dominant saver is the household sector, followed by the domestic private corporate sector. The contribution of the public sector to total net domestic savings is relatively small.
+
+### Mobilisation of Savings
+
+Financial system is a highly efficient mechanism for mobilising savings. In a fully-monetised economy this is done automatically when, in the first instance, the public holds its savings in the form of money. However, this is not the only way of instantaneous mobilisation of savings.
+
+Other financial methods used are deductions at source of the contributions to provident fund and other savings schemes. More generally, mobilisation of savings taken place when savers move into financial assets, whether currency, bank deposits, post office savings deposits, life insurance policies, bill, bonds, equity shares, etc.
+
+### Allocation of Funds
+
+Another important function of a financial system is to arrange smooth, efficient, and socially equitable allocation of credit. With modem financial development and new financial assets, institutions and markets have come to be organised, which are replaying an increasingly important role in the provision of credit.
+
+In the allocative functions of financial institutions lies their main source of power. By granting easy and cheap credit to particular firms, they can shift outward the resource constraint of these firms and make them grow faster.
+
+On the other hand, by denying adequate credit on reasonable terms to other firms, financial institutions can restrict the growth or even normal working of these other firms substantially. Thus, the power of credit can be used highly discriminately to favour some and to hinder others.
+
+More reads...
+
+[Indian Financial System](./indian_financial_system.md)
