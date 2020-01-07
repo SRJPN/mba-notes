@@ -7,3 +7,5 @@
 - [Project Formulation and Appraisal](./project_formulation_and_appraisal)
 
 - [Project Support System](./project_support_system)
+
+- [Project Control System](./project_control_system/readme.md)
