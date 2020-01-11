@@ -1,4 +1,4 @@
-## Importance of Business Environment ##
+# Importance of Business Environment
 
 An analysis of business environment helps to identify strength, weakness, opportunities & threats. Analysis is very necessary for the survival and growth of the business enterprise. The importance of business environment is briefly explained in an analysis below.
 
