@@ -1,5 +1,7 @@
 ## MBA Notes ##
 
+- [Business Environment](./business_environment/readme.md)
+
 - [Marketing Management](./marketing_management)
 
 - [Financial Management](./financial_management)
