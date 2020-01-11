@@ -1,6 +1,4 @@
-# Objectives of
-
-# Consumer Protection Act
+# Objectives of Consumer Protection Act
 
 The main objective of the Consumer Protection Act is to grant shield for the improved safeguard of consumers and their rights. Even though there is a prevailing Consumer Protection Act, it is still doubtful as to how far the objectives of the [Act](https://en.wikipedia.org/wiki/Consumer_Protection_Act,_1986. are  achieved.
 

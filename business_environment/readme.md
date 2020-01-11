@@ -11,7 +11,7 @@
 
 - [Role Of Information Technology In Business Information Technology Essay](./role_of_information_technology_in_business_information_technology_essay.md)
 
-- [Objectives of](./objectives_of.md)
+- [Objectives of Consumer Protection Act](./objectives_of_consumer_protection_act.md)
 
 - [Advantages and problems of privatisation](./advantages_and_problems_of_privatisation.md)
 
