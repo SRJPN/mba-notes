@@ -2,6 +2,8 @@
 
 - [Business Environment](./business_environment/readme.md)
 
+- [Business Laws](./business_laws/readme.md)
+
 - [Marketing Management](./marketing_management)
 
 - [Financial Management](./financial_management)
