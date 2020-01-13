@@ -18,4 +18,4 @@
 
 - [7 Different Kinds of Partners that are found in Partnership Firms](./7_different_kinds_of_partners_that_are_found_in_partnership_firms.md)
 
-- [Winding Up of a Company: 3 Modes | Accounting](./winding_up_of_a_company_3_modes_accounting.md)
+- [Winding Up of a Company: 3 Modes Accounting](./winding_up_of_a_company_3_modes_accounting.md)
